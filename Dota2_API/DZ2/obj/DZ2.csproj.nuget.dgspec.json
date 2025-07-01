@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gleb/Desktop/Rider/DZ2/DZ2/DZ2.csproj": {}
+    "/Users/gleb/Desktop/Rider/Dota2_API/DZ2/DZ2.csproj": {}
   },
   "projects": {
-    "/Users/gleb/Desktop/Rider/DZ2/DZ2/DZ2.csproj": {
+    "/Users/gleb/Desktop/Rider/Dota2_API/DZ2/DZ2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gleb/Desktop/Rider/DZ2/DZ2/DZ2.csproj",
+        "projectUniqueName": "/Users/gleb/Desktop/Rider/Dota2_API/DZ2/DZ2.csproj",
         "projectName": "DZ2",
-        "projectPath": "/Users/gleb/Desktop/Rider/DZ2/DZ2/DZ2.csproj",
+        "projectPath": "/Users/gleb/Desktop/Rider/Dota2_API/DZ2/DZ2.csproj",
         "packagesPath": "/Users/gleb/.nuget/packages/",
-        "outputPath": "/Users/gleb/Desktop/Rider/DZ2/DZ2/obj/",
+        "outputPath": "/Users/gleb/Desktop/Rider/Dota2_API/DZ2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gleb/.nuget/NuGet/NuGet.Config"

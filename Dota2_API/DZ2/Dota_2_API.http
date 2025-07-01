@@ -1,0 +1,47 @@
+### Create hero
+POST http://localhost:5188/heroes
+Content-Type: application/json
+
+{
+    "name": "Axe",
+    "attribute": 1,
+    "isMelee": true,
+    "health": 700,
+    "mana": 291
+}
+
+### Update hero
+PUT http://localhost:5188/heroes
+Content-Type: application/json
+
+{
+    "name": "Axe",
+    "attribute": 2,
+    "isMelee": true,
+    "health": 400,
+    "mana": 391
+}
+
+### Delete hero
+DELETE http://localhost:5188/heroes/Axe
+Content-Type: application/json
+
+{
+    "name": "Axe",
+    "attribute": 1,
+    "isMelee": true,
+    "health": 700,
+    "mana": 291
+}
+
+### Get heroes
+GET http://localhost:5188/heroes
+
+### Get hero by name
+GET http://localhost:5188/heroes/Axe
+###
+GET http://localhost:5188/heroes?name=axe
+###
+GET http://localhost:5188/heroes?health=600&health_limit=more
+###
+GET http://localhost:5188/heroes?health=1000&health_limit=less
