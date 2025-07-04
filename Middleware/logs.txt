@@ -1,0 +1,57 @@
+{
+  "Time": "2025-07-04T17:55:14.060214+03:00",
+  "Request": {
+    "Method": "GET",
+    "Url": "/",
+    "Headers": {
+      "Accept": "text/html,application/xhtml\u002Bxml,application/xml;q=0.9,*/*;q=0.8",
+      "Connection": "keep-alive",
+      "Host": "localhost:1488",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "en-GB,en;q=0.9",
+      "Upgrade-Insecure-Requests": "1",
+      "Sec-Fetch-Site": "none",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Dest": "document"
+    },
+    "Body": ""
+  },
+  "Response": {
+    "StatusCode": 404,
+    "Headers": {},
+    "Body": ""
+  }
+}
+------------------
+{
+  "Time": "2025-07-04T17:55:20.701249+03:00",
+  "Request": {
+    "Method": "GET",
+    "Url": "/oleg",
+    "Headers": {
+      "Accept": "text/html,application/xhtml\u002Bxml,application/xml;q=0.9,*/*;q=0.8",
+      "Connection": "keep-alive",
+      "Host": "localhost:1488",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "en-GB,en;q=0.9",
+      "Upgrade-Insecure-Requests": "1",
+      "Sec-Fetch-Site": "none",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Dest": "document"
+    },
+    "Body": ""
+  },
+  "Response": {
+    "StatusCode": 200,
+    "Headers": {
+      "Content-Type": "text/plain; charset=utf-8",
+      "Date": "Fri, 04 Jul 2025 14:55:20 GMT",
+      "Server": "Kestrel",
+      "Transfer-Encoding": "chunked"
+    },
+    "Body": "Oleg"
+  }
+}
+------------------

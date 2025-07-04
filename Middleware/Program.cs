@@ -1,12 +1,13 @@
-using Middleware.Middleware;
+using Middleware.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-//app.UseRequestLogging();
-app.UseAdminPathCheck();
+//app.UseLogging();
+//app.UseAdminPathCheck();
+//app.UseAddActionHeader();
 
-app.UseAddActionHeader();
+app.UseRequestResponseLoggingMiddleware();
 
 app.MapGet("/admin", () => "Admin Page!");
 app.MapGet("time", () => DateTime.Now);
