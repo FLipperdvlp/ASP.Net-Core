@@ -1,0 +1,13 @@
+### BUILD
+POST http://localhost:5252/build
+Content-Type: application/json
+
+{
+  "name": "stone",
+  "x": 1,
+  "y": 2,
+  "z": 3
+}
+
+### DESTROY
+POST http://localhost:5252/destroy?x=1&y=2&z=3
