@@ -1,6 +1,5 @@
 using Library.DataBase;
 using Microsoft.AspNetCore.Mvc;
-
 namespace Library.Controllers;
 
 [ApiController]
