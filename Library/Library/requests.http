@@ -1,0 +1,13 @@
+@host = http://localhost:5000
+
+### Create auther
+POST {{host}}/authors
+Content-Type: application/json
+
+{
+  "name": "Lesya Ukrainka",
+  "DeathDate": "1913-08-01"
+}
+
+### Get authors books
+GET {{host}}/authors/1/books

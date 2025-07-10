@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kmL5bhZ3d+g=",
+  "dgSpecHash": "P2QOy154890=",
   "success": true,
-  "projectFilePath": "/Users/gleb/Desktop/Rider/Library/Library/Library.csproj",
+  "projectFilePath": "/Users/gleb/Desktop/ASP.Net-Core-main/Library/Library/Library.csproj",
   "expectedPackageFiles": [
     "/Users/gleb/.nuget/packages/microsoft.data.sqlite.core/9.0.6/microsoft.data.sqlite.core.9.0.6.nupkg.sha512",
     "/Users/gleb/.nuget/packages/microsoft.entityframeworkcore/9.0.6/microsoft.entityframeworkcore.9.0.6.nupkg.sha512",

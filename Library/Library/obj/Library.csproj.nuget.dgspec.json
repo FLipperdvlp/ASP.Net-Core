@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gleb/Desktop/Rider/Library/Library/Library.csproj": {}
+    "/Users/gleb/Desktop/ASP.Net-Core-main/Library/Library/Library.csproj": {}
   },
   "projects": {
-    "/Users/gleb/Desktop/Rider/Library/Library/Library.csproj": {
+    "/Users/gleb/Desktop/ASP.Net-Core-main/Library/Library/Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gleb/Desktop/Rider/Library/Library/Library.csproj",
+        "projectUniqueName": "/Users/gleb/Desktop/ASP.Net-Core-main/Library/Library/Library.csproj",
         "projectName": "Library",
-        "projectPath": "/Users/gleb/Desktop/Rider/Library/Library/Library.csproj",
+        "projectPath": "/Users/gleb/Desktop/ASP.Net-Core-main/Library/Library/Library.csproj",
         "packagesPath": "/Users/gleb/.nuget/packages/",
-        "outputPath": "/Users/gleb/Desktop/Rider/Library/Library/obj/",
+        "outputPath": "/Users/gleb/Desktop/ASP.Net-Core-main/Library/Library/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gleb/.nuget/NuGet/NuGet.Config"
