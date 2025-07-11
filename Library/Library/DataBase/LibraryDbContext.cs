@@ -38,7 +38,7 @@ public class LibraryDbContext : DbContext {
         };
         var books = new List<Book>
         {
-            new  Book
+            new Book
             {
                 Id = 1,
                 Name = "ASP.NET Core course",

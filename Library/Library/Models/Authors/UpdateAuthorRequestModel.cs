@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Library.Models.Books;
+namespace Library.Models.Authors;
 
 public class UpdateAuthorRequestModel 
 {
